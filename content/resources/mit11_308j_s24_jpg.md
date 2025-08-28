@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/ecological-urbanism/mit11_308j_s24.jpg
+file: /ol-ocw-studio-app/courses/11-308j-ecological-urbanism-spring-2024/mit11_308j_s24.jpg
 file_size: 125857
 file_type: image/jpeg
 image_metadata:
